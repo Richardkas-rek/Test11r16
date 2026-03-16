@@ -1,5 +1,8 @@
 package com.example.test11r16;
-
+/**
+ * Richard
+ *
+ */
 
 import android.os.Bundle;
 import android.view.View;
